@@ -4,12 +4,11 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Next js",
   description: "next js docs",
-  keywords: "next, freamework,javascript,",
   openGraph: {
     title: "NEXT JS",
     description:
       "Get started by editing src/app/page.tsx. Save and see your changes instantly.",
-    type: "website",
+
     url: "https://meta-tags-test.vercel.app",
     images: [
       {
