@@ -4,17 +4,19 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Next js",
   description: "next js docs",
+  keywords: "java script,fremwork,next-js",
   openGraph: {
     title: "NEXT JS",
     description:
       "Get started by editing src/app/page.tsx. Save and see your changes instantly.",
+    type: "website",
 
     url: "https://meta-tags-test.vercel.app",
     images: [
       {
         url: "https://meta-tags-test.vercel.app/ts.png",
-        width: 1200,
-        height: 630,
+        width: 600,
+        height: 600,
         alt: "logo",
       },
     ],
