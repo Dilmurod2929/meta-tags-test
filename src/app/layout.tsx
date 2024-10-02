@@ -14,9 +14,9 @@ export const metadata: Metadata = {
     url: "https://meta-tags-test.vercel.app",
     images: [
       {
-        url: "https://meta-tags-test.vercel.app/ts.png",
-        width: 600,
-        height: 600,
+        url: "https://meta-tags-test.vercel.app/next.png",
+        width: 1200,
+        height: 630,
         alt: "logo",
       },
     ],
