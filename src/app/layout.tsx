@@ -22,10 +22,10 @@ export const metadata: Metadata = {
     description:
       "Get started by editing src/app/page.tsx. Save and see your changes instantly.",
     type: "website",
-    url: "https://meta-tags-test.vercel.app",
+    url: "https://meta-tags-test.vercel.app/",
     images: [
       {
-        url: "https://meta-tags-test.vercel.app/test.jpg",
+        url: "https://meta-tags-test.vercel.app/public/test.jpg",
         width: 1200,
         height: 630,
         alt: "logo",
