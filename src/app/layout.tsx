@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     url: "https://meta-tags-test.vercel.app",
     images: [
       {
-        url: "https://meta-tags-test.vercel.app/public/ts.png",
+        url: "https://meta-tags-test.vercel.app/ts.png",
         width: 1200,
         height: 630,
         alt: "logo",
